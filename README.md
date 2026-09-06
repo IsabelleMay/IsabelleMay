@@ -2,9 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff42e0&size=32&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Isabelle+Mayara+Santos;NOC+at+VNSolution;Cybersecurity+%26+Pentesting;Infrastructure+%7C+Networks+%7C+Monitoring;Automation+with+Python+and+Docker;Building%2C+breaking+and+understanding+systems;Welcome+to+my+GitHub!+%3A%29)](https://git.io/typing-svg)
 
+<div align="center">
+
+`monitor` | `analyze` | `understand` | `secure` | `automate`
+
+</div>
+
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I currently work in **NOC at VNSolution**, focusing on infrastructure, network monitoring, availability and IT environments.
 
@@ -16,7 +22,7 @@ My goal is to continue developing my knowledge in **Information Security, Offens
 
 ---
 
-## 🛡️ Main Areas
+## Main Areas
 
 <div align="center">
 
@@ -31,7 +37,7 @@ My goal is to continue developing my knowledge in **Information Security, Offens
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
@@ -48,7 +54,7 @@ My goal is to continue developing my knowledge in **Information Security, Offens
 
 ---
 
-## 🌐 Web Fundamentals
+## Web Fundamentals
 
 <div align="center">
 
@@ -59,7 +65,7 @@ My goal is to continue developing my knowledge in **Information Security, Offens
 
 ---
 
-## 🔐 Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -72,7 +78,7 @@ My goal is to continue developing my knowledge in **Information Security, Offens
 
 ---
 
-## 🛡️ Current Project
+## Current Project
 
 ### Sentinela do Plano Cúbico
 
@@ -80,17 +86,17 @@ My goal is to continue developing my knowledge in **Information Security, Offens
 
 The project combines **Python, Docker, APIs, Discord integration, networking and infrastructure monitoring**, automatically detecting problems and sending alerts when something requires attention.
 
-### Currently monitoring:
+### Currently monitoring
 
-- 🟢 Minecraft server availability
-- 💻 Host availability
-- ❤️ Host heartbeat
-- 🔋 Battery level
-- 🔌 Charger and power status
-- 🧠 Memory usage
-- 💾 Storage usage
-- 🌐 Host communication
-- 🚨 Automatic Discord alerts
+- Minecraft server availability
+- Host availability
+- Host heartbeat
+- Battery level
+- Charger and power status
+- Memory usage
+- Storage usage
+- Host communication
+- Automatic Discord alerts
 
 The monitoring service was designed with the goal of operating independently from the monitored machine, allowing infrastructure failures to still be detected even when the main host becomes unavailable.
 
@@ -98,7 +104,7 @@ The project is also being prepared to operate through a **cloud environment usin
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```text
 NOC
